@@ -14,7 +14,7 @@ getgenv().AimingSettings = {
 
         Smoothing = {
         Enabled = true,
-        Amount = 0.030
+        Amount = 0.015
     },
  }
 }
