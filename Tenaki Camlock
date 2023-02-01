@@ -7,7 +7,7 @@ getgenv().AimingSettings = {
         HitAirshots = false,
         AutoPrediction = false,
         NotificationMode = false,
-        Keybind = Enum.KeyCode.Q,
+        Keybind = Enum.KeyCode.E,
         PredictionAmount = 0.165,
 
 
