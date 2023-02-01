@@ -1,0 +1,6 @@
+BulletTracers = true
+bullet_tracer_color = Color3.fromRGB(230, 230, 250)
+---------------------------------------------------------------------------------------------------------------------------
+
+function GetGun()
+    if game.Players.LocalPlayer.Character then
