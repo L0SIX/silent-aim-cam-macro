@@ -1,6 +1,6 @@
 getgenv().Prediction = 0.1248710929171	
 getgenv().AimPart = "HumanoidRootPart"	
-getgenv().Key = "H"	
+getgenv().Key = "Q"	
 getgenv().DisableKey = "P"	
 	
 getgenv().FOV = true	
