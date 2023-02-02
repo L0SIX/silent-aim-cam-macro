@@ -1,6 +1,6 @@
 getgenv().Prediction =  (  .1239592  )   -- [ PREDICTION: Lower Prediction: Lower Ping | Higher Prediction: Higher Ping  ]
 
-getgenv().FOV =  (  150  )   -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
+getgenv().FOV =  (  165  )   -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
 
 getgenv().AimKey =  (  "q"  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
 
@@ -8,7 +8,7 @@ getgenv().Notifier = true
 
 getgenv().FOV_VISIBLE = false  -- [ Self Explanatory ]
 
-getgenv().DontShootThesePeople = {  -- [ WHITELIST TABLE: List Of Who NOT To Shoot, edit like this. "Contain quotations with their name and then a semi-colon afterwards for each line" ; ]
+getgenv().DontShootThesePeople = "L0SX" {  -- [ WHITELIST TABLE: List Of Who NOT To Shoot, edit like this. "Contain quotations with their name and then a semi-colon afterwards for each line" ; ]
 
 	"AimLockPsycho";
 	"JakeTheMiddleMan";
