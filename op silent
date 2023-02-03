@@ -2,7 +2,7 @@ getgenv().Prediction =  (  .1239592  )   -- [ PREDICTION: Lower Prediction: Lowe
 
 getgenv().FOV =  (  165  )   -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
 
-getgenv().AimKey =  (  "q"  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
+getgenv().AimKey =  (  "t"  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
 
 getgenv().Notifier = true
 
